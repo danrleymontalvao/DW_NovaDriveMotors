@@ -5,3 +5,5 @@ Grande parte das empresas tem dificuldade em reunir as suas diferentes fontes de
 ![Arquitetura](https://github.com/user-attachments/assets/33cc41a8-7ac6-49de-8375-f78cd98f255b)
 
 Você encontra o artigo detalhando todo o projeto no link abaixo: 
+
+https://medium.com/@danrleymontalvo/data-warehouse-do-zero-potencializando-a-tomada-de-decis%C3%B5es-em-uma-montadora-de-ve%C3%ADculos-com-f5f064473ccf
